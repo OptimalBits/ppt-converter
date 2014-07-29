@@ -1,0 +1,13 @@
+{
+  "name": "pptconverter",
+  "description": "convert powerpoint presentations to png/jpg/wmv",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "express": "3.x",
+    "formidable":"*",
+    "request":"2.16.6",
+    "archiver":"*",
+    "async":"*"
+  }
+}
