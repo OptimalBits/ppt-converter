@@ -4,10 +4,11 @@
   "version": "0.0.1",
   "private": true,
   "dependencies": {
+    "archiver": "*",
+    "async": "*",
     "express": "3.x",
-    "formidable":"*",
-    "request":"2.16.6",
-    "archiver":"*",
-    "async":"*"
+    "formidable": "*",
+    "request": "2.16.6",
+    "zipstream": "^0.2.1"
   }
 }
