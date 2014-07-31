@@ -9,6 +9,7 @@ ppt-converter
 - npm install forever -g
 
 #Install
+- You will need to add the windows machine to github deployment keys. Check github for instructions.
 - Clone this repository.
 - Copy avconv bin folder under directory avconv in the project root folder.
 - Execute run.bat
